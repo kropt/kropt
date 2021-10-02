@@ -5,4 +5,4 @@
 >
 > Message me through discord: MineKrypt#8107
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=minekrypt&theme=nightowl)
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=minekrypt&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
