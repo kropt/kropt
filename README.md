@@ -5,4 +5,6 @@
 >
 > Message me through discord: MineKrypt#8107
 
+![](https://github.com/MineKrypt/stats/blob/master/generated/languages.svg)
+
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=minekrypt&theme=city-lights&hide_border=true)](https://git.io/streak-stats)
