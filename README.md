@@ -1,6 +1,6 @@
 # I'm MineKrypt, or just Krypt.
 
-Message me on Discord if you have to: `MineKrypt#8107`
+Message me on Discord if you have to: `Krypt#8107`
 
 ### What I use:
 - [IntelliJ IDEA](https://www.jetbrains.com/ "JetBrains") <sup>Java</sup>
