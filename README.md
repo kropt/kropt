@@ -4,7 +4,7 @@ Message me on Discord if you have to: `Krypt#8107`
 
 ### What I use:
 - [IntelliJ IDEA](https://www.jetbrains.com/ "JetBrains") <sup>Java</sup>
-- [VSCodium](https://github.com/VSCodium/vscodium) <sup>Python</sup>
+- [VSCodium](https://github.com/VSCodium/vscodium) <sup>Python, Lua</sup>
 - [Endeavour OS](https://endeavouros.com/)
   - [Z Shell](https://github.com/zsh-users/zsh "ZSH")
 
