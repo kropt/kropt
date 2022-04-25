@@ -13,7 +13,7 @@ Message me on Discord if you have to: `Krypt#8107`
 - [Enhanced-dpy](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py") Bot *Bored*.
 - *WAC2*, might be used on the server. <sup>([Wastelands](https://discord.gg/w9VHUxqTqz "Discord Invite") AntiCheat 2)</sup>
 
-![LMFAO smh](https://cdn.discordapp.com/attachments/807580481637974026/945936934855929916/s9xuxgjg5gj81.png?size=4096 "(definitely real statement by apple)")
+![LMFAO smh](https://files.catbox.moe/y8g373.gif "tux")
 
 
 ### Now stop lurking, all my repos are private.
