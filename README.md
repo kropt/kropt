@@ -6,7 +6,9 @@ Message me on Discord if you have to: `Krypt#8107`
 - [IntelliJ IDEA](https://www.jetbrains.com/ "JetBrains") <sup>Java</sup>
 - [VSCodium](https://github.com/VSCodium/vscodium) <sup>Python, Lua</sup>
 - [Endeavour OS](https://endeavouros.com/)
-  - [Z Shell](https://github.com/zsh-users/zsh "ZSH")
+  - [Z Shell](https://github.com/zsh-users/zsh "ZSH") 
+  - [QTile](http://www.qtile.org "qtile.org") <sup>WM</sup>
+  - [Alacritty](https://alacritty.org "alacritty.org") <sup>Terminal Emulator</sup>
 
 ### What I'm working on:
 - Private [MatHax](https://github.com/MatHax/client) fork *Comedy*.
