@@ -12,6 +12,7 @@ Message me on Discord if you have to: `Krypt#8107`
 ### What I'm working on:
 - Private [MatHax](https://github.com/MatHax/client) fork *Comedy*.
 - [Enhanced-dpy](https://github.com/iDevision/enhanced-discord.py "enhanced-discord.py") Bot *Bored*.
+- Some random Rust projects.
 
 ![LMFAO smh](https://files.catbox.moe/y8g373.gif "tux")
 
