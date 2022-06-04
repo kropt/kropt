@@ -2,6 +2,8 @@
 
 Message me on Discord if you have to: `Krypt#8107`
 
+**[Rust](https://github.com/rust-lang/rust) is awesome.**
+
 ### What I use:
 - [IntelliJ IDEA](https://www.jetbrains.com/ "JetBrains") <sup>Java</sup>
 - [VSCodium](https://github.com/VSCodium/vscodium) <sup>Python, Lua, Rust</sup>
