@@ -1,4 +1,4 @@
-# I'm MineKrypt, or just Krypt.
+# Hey! I'm Krypt.
 
 Message me on Discord if you have to: `Krypt#8107`
 
