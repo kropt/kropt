@@ -1,4 +1,6 @@
-# I'm Krypt.
+![kr](https://user-images.githubusercontent.com/61960905/179256710-27bcc2a1-db00-44ee-ab8d-6498d0281602.png)
+
+# ^ That's me.
 
 - Discord: `Krypt#8107`
 - Revolt: `Kropt`
@@ -17,4 +19,3 @@
 
 
 ### Now stop lurking, all my repos are private.
-
