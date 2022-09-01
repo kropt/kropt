@@ -14,7 +14,7 @@
 ### Programs/Tech
 - **Endeavour OS**, because Linux best.
 - **IntelliJ IDEA** for Java.
-- **VSCode OSS** for Rust, Python, and anything else.
+- **VSCode OSS** for Rust, Python, and anything in between.
 
 
 
