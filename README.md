@@ -1,15 +1,3 @@
-# Hello, I'm Krypt.
+pro antihake bypassor
 
-### I know:
-- Java
-- Rust
-- Python
-
-### I use:
-- Endeavour OS
-- Hyprland
-- KDE Plasma
-- IntelliJ IDEA
-- Visual Studio Code
-
-#### Stop lurking. My repos are private.
+# I'll redo this readme soon.
