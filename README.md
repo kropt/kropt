@@ -20,3 +20,6 @@
 
   - **NameMC**  -> *[obfuscators](https://namemc.com/obfuscators.1)*
   - **Discord** -> *Krypt#8107*
+
+
+<sub>Stop lurking, all my repos are private.</sub>  
