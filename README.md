@@ -6,14 +6,14 @@
 
 <img src="https://www.jetbrains.com/favicon.ico" width="18"/> Biggest JetBrains fan. 
 
-## Technologies I use (unfinished): 
+## :computer: Technologies I use (unfinished): 
   - **Java**
   - **PaperMC / Spigot**
   - **Rust**
 
 <sup>(in order of usage)</sup>  
 
-## Projects I'm working on:
+## 📈 Projects I'm working on:
   - **Orbital** - A lag compentated anticheat for modern Minecraft.
 
 ## Other:
