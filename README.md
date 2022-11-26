@@ -15,6 +15,7 @@
 
 ## 📈 Projects I'm working on:
   - **Orbital** - A lag compentated anticheat for modern Minecraft.
+  - **Thorium** - A new flavour of Minecraft client. (1.19+)
 
 ## Other:
 
