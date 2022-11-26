@@ -18,7 +18,7 @@
   - **Orbital** - A lag compentated anticheat for modern Minecraft.
   - **Thorium** - A new flavour of Minecraft client. (1.19+)
 
-## Other:
+## 🌴 Other:
 
   - **NameMC**  -> *[obfuscators](https://namemc.com/obfuscators.1)*
   - **Discord** -> *Krypt#8107*
