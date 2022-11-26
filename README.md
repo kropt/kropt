@@ -9,6 +9,7 @@
 ## :computer: Technologies I use (unfinished): 
   - **Java**
   - **PaperMC / Spigot**
+  - **FabricMC**
   - **Rust**
 
 <sup>(in order of usage)</sup>  
