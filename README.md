@@ -4,7 +4,7 @@
 
 :coffee: I turn coffee and music into code. 
 
-<img src="https://www.jetbrains.com/favicon.ico" width="18"/> Biggest JetBrains fan. 
+<img src="https://www.jetbrains.com/favicon.ico" width="18"/> Biggest JetBrains fan.
 
 ## :computer: Technologies I use (unfinished): 
   - **Java**
@@ -19,9 +19,5 @@
   - **Thorium** - A new flavour of Minecraft client. (1.19+)
 
 ## 🌴 Other:
-
   - **NameMC**  -> *[obfuscators](https://namemc.com/obfuscators.1)*
   - **Discord** -> *Krypt#8107*
-
-
-<sub>Stop lurking, all my repos are private.</sub>  
