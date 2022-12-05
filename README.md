@@ -20,4 +20,5 @@
 
 ## 🌴 Other:
   - **NameMC**  -> *[obfuscators](https://namemc.com/obfuscators.1)*
-  - **Discord** -> *Krypt#8107*
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/440068179994083328)](https://discord.com/users/440068179994083328)
