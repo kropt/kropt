@@ -10,6 +10,7 @@
   - **Java**
   - **PaperMC / Spigot**
   - **FabricMC**
+  - **Python**
   - **Rust**
 
 <sup>(in order of usage)</sup>  
