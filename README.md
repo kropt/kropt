@@ -1,5 +1,7 @@
 *"Follow not the null pointer for it will lead into madness."*
 
+**[Bio](https://e-z.bio/mk)**
+
 # :wave: Hello, I'm Krypt. 
 
 :coffee: I turn coffee and music into code. 
