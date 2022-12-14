@@ -2,7 +2,7 @@
 
 **[Bio](https://e-z.bio/mk)**
 
-# :wave: Hello, I'm Krypt. 
+[![](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=2500&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Yo%2C+I'm+Krypt.)](https://e-z.bio/mk)
 
 :coffee: I turn coffee and music into code. 
 
@@ -22,6 +22,7 @@
   - **Thorium** - A new flavour of Minecraft client. (1.19+)
 
 ## 🌴 Other:
-[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=500&color=9065FF&width=435&lines=e-z.bio%2Fmk;namemc.com%2Fobfuscators)](https://git.io/typing-svg)
+<!---visit https://readme-typing-svg.demolab.com/demo/ --->
+[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=500&color=9065FF&width=435&lines=e-z.bio%2Fmk;namemc.com%2Fobfuscators)](https://e-z.bio/mk)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/440068179994083328)](https://discord.com/users/440068179994083328)
