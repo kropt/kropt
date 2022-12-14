@@ -2,7 +2,7 @@
 
 **[Bio](https://e-z.bio/mk)**
 
-[![](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&duration=2500&pause=2500&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Yo%2C+I'm+Krypt.)](https://e-z.bio/mk)
+[![](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=50&duration=2500&pause=2500&color=FFFFFF&width=435&height=100&lines=%F0%9F%91%8B+Yo%2C+I'm+Krypt.)](https://e-z.bio/mk)
 
 :coffee: I turn coffee and music into code. 
 
