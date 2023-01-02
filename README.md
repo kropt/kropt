@@ -9,11 +9,13 @@
 <img src="https://www.jetbrains.com/favicon.ico" width="18"/> Biggest JetBrains fan.
 
 ## :computer: Technologies I use (unfinished): 
+  - **Kotlin**
   - **Java**
   - **PaperMC / Spigot**
   - **FabricMC**
-  - **Python**
   - **Rust**
+  - **Python**
+
 
 <sup>(in order of usage)</sup>  
 
