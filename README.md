@@ -8,16 +8,8 @@
 
 <img src="https://www.jetbrains.com/favicon.ico" width="18"/> Biggest JetBrains fan.
 
-## :computer: Technologies I use (unfinished): 
-  - **Kotlin**
-  - **Java**
-  - **PaperMC / Spigot**
-  - **FabricMC**
-  - **Rust**
-  - **Python**
-
-
-<sup>(in order of usage)</sup>  
+### Programming with `Kotlin`, `Java`, `Rust`, and `Python`.
+### In `IntelliJ Ultimate` and `VSCode`. 
 
 ## 📈 Projects I'm working on:
   - **Orbital** - A lag compentated anticheat for modern Minecraft.
