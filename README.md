@@ -8,7 +8,7 @@
 
 <img src="https://www.jetbrains.com/favicon.ico" width="18"/> Biggest JetBrains fan.
 
-### Programming with `Kotlin`, `Java`, `Rust`, and `Python`.
+### Programming with `Rust`, `Kotlin`, and `Java`.
 ### In `IntelliJ Ultimate` and `VSCode`. 
 
 ## 📈 Projects I'm working on:
