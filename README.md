@@ -12,8 +12,7 @@
 ### In `IntelliJ Ultimate` and `VSCode`. 
 
 ## 📈 Projects I'm working on:
-  - **Orbital** - A lag compentated anticheat for modern Minecraft.
-  - **Thorium** - A new flavour of Minecraft client. (1.19+)
+  - **Vanth** - Meteor client addon for [wastelandia.cc](https://wastelandia.cc).
 
 ## 🌴 Other:
 <!---visit https://readme-typing-svg.demolab.com/demo/ --->
