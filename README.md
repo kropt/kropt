@@ -12,7 +12,7 @@
 ### In `IntelliJ Ultimate` and `VSCode`. 
 
 ## 📈 Projects I'm working on:
-  - **Vanth** - Meteor client addon for [wastelandia.cc](https://wastelandia.cc).
+  - **Vanth** - Miscellaneous Meteor Client addon, somewhat for Constantiam.
 
 ## 🌴 Other:
 <!---visit https://readme-typing-svg.demolab.com/demo/ --->
